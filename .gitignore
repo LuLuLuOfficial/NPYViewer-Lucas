@@ -1,0 +1,4 @@
+.venv/
+tests/
+
+lastpath.npy

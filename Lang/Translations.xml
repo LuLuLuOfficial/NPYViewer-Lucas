@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <!-- 中文 (简体) -->
+    <language code="zh-CN">
+        <Win_Tittle>NPY 查看器</Win_Tittle>
+
+        <!-- 菜单 - 文件 -->
+        <Menu-File>文件</Menu-File>
+        <Menu-File-Exit>退出</Menu-File-Exit>
+        <Menu-File-Open>打开</Menu-File-Open>
+        <Menu-File-Save_As>保存为</Menu-File-Save_As>
+        <Menu-File-Exit-Tips>退出应用</Menu-File-Exit-Tips>
+        <Menu-File-Open-Tips>打开 .NPY 文件</Menu-File-Open-Tips>
+        <Menu-File-Save_As-Tips>另存为文件</Menu-File-Save_As-Tips>
+
+        <!-- 菜单 - 显示 -->
+        <Menu-Display>显示</Menu-Display>
+        <Menu-Display-Grayscale>灰度图像</Menu-Display-Grayscale>
+        <Menu-Display-Grayscale-Tips>以灰度图像形式查看</Menu-Display-Grayscale-Tips>
+        <Menu-Display-3D_Point_Cloud>3D 点云</Menu-Display-3D_Point_Cloud>
+        <Menu-Display-3D_Point_Cloud-Tips>以 3D 点云形式查看</Menu-Display-3D_Point_Cloud-Tips>
+        <Menu-Display-HeightMap>高度图</Menu-Display-HeightMap>
+        <Menu-Display-HeightMap-Tips>以高度图形式查看</Menu-Display-HeightMap-Tips>
+        <Menu-Display-Time_Series>时间序列</Menu-Display-Time_Series>
+        <Menu-Display-Time_Series-Tips>以时间序列形式查看</Menu-Display-Time_Series-Tips>
+        <Menu-Display-Directional_Graph>方向图</Menu-Display-Directional_Graph>
+        <Menu-Display-Directional_Graph-Tips>以方向图形式查看</Menu-Display-Directional_Graph-Tips>
+
+        <!-- 菜单 - 设置 -->
+        <Menu-Settings>设置</Menu-Settings>
+        <Menu-Settings-Language>语言</Menu-Settings-Language>
+        <Menu-Settings-Language-zh-CN>中文(简体)</Menu-Settings-Language-zh-CN>
+        <Menu-Settings-Language-en-US>英文(美国)</Menu-Settings-Language-en-US>
+
+        <!-- 表格右键菜单 - 列 -->
+        <Table-Col-Insert-Left>在左侧插入列</Table-Col-Insert-Left>
+        <Table-Col-Insert-Right>在右侧插入列</Table-Col-Insert-Right>
+        <Table-Col-AutoAdjust-Selected>自动调整</Table-Col-AutoAdjust-Selected>
+        <Table-Col-AutoAdjust-All>自动调整(全部)</Table-Col-AutoAdjust-All>
+        <Table-Col-Delete>删除此列</Table-Col-Delete>
+
+        <!-- 表格右键菜单 - 行 -->
+        <Table-Row-Insert-Top>在上方插入行</Table-Row-Insert-Top>
+        <Table-Row-Insert-Bottom>在下方插入行</Table-Row-Insert-Bottom>
+        <Table-Row-AutoAdjust-Selected>自动调整</Table-Row-AutoAdjust-Selected>
+        <Table-Row-AutoAdjust-All>自动调整(全部)</Table-Row-AutoAdjust-All>
+        <Table-Row-Delete>删除此行</Table-Row-Delete>
+
+        <!-- 其他标签 -->
+        <Label-NPY_Info>NPY 属性: </Label-NPY_Info>
+        <Label-NPY_Info-Infos>文件名: |-|数据类型: |-|大小: </Label-NPY_Info-Infos>
+    </language>
+
+    <!-- 英文 (美国) -->
+    <language code="en-US">
+        <Win_Tittle>NPY Viewer</Win_Tittle>
+
+        <!-- Menu - File -->
+        <Menu-File>File</Menu-File>
+        <Menu-File-Exit>Exit</Menu-File-Exit>
+        <Menu-File-Open>Open</Menu-File-Open>
+        <Menu-File-Save_As>Save As</Menu-File-Save_As>
+        <Menu-File-Exit-Tips>Exit application</Menu-File-Exit-Tips>
+        <Menu-File-Open-Tips>Open .NPY file</Menu-File-Open-Tips>
+        <Menu-File-Save_As-Tips>Save file as...</Menu-File-Save_As-Tips>
+
+        <!-- Menu - Display -->
+        <Menu-Display>Display</Menu-Display>
+        <Menu-Display-Grayscale>Grayscale Image</Menu-Display-Grayscale>
+        <Menu-Display-Grayscale-Tips>View as Grayscale Image</Menu-Display-Grayscale-Tips>
+        <Menu-Display-3D_Point_Cloud>3D Point Cloud</Menu-Display-3D_Point_Cloud>
+        <Menu-Display-3D_Point_Cloud-Tips>View as 3D Point Cloud</Menu-Display-3D_Point_Cloud-Tips>
+        <Menu-Display-HeightMap>Height Map</Menu-Display-HeightMap>
+        <Menu-Display-HeightMap-Tips>View as Height Map</Menu-Display-HeightMap-Tips>
+        <Menu-Display-Time_Series>Time Series</Menu-Display-Time_Series>
+        <Menu-Display-Time_Series-Tips>View as Time Series</Menu-Display-Time_Series-Tips>
+        <Menu-Display-Directional_Graph>Directional Graph</Menu-Display-Directional_Graph>
+        <Menu-Display-Directional_Graph-Tips>View as Directional Graph</Menu-Display-Directional_Graph-Tips>
+
+        <!-- Menu - Settings -->
+        <Menu-Settings>Settings</Menu-Settings>
+        <Menu-Settings-Language>Language</Menu-Settings-Language>
+        <Menu-Settings-Language-zh-CN>Chinese (Simplified)</Menu-Settings-Language-zh-CN>
+        <Menu-Settings-Language-en-US>English (US)</Menu-Settings-Language-en-US>
+
+        <!-- Table Context Menu - Column -->
+        <Table-Col-Insert-Left>Insert Column to the Left</Table-Col-Insert-Left>
+        <Table-Col-Insert-Right>Insert Column to the Right</Table-Col-Insert-Right>
+        <Table-Col-AutoAdjust-Selected>Auto Adjust</Table-Col-AutoAdjust-Selected>
+        <Table-Col-AutoAdjust-All>Auto Adjust(All)</Table-Col-AutoAdjust-All>
+        <Table-Col-Delete>Delete This Column</Table-Col-Delete>
+
+        <!-- Table Context Menu - Row -->
+        <Table-Row-Insert-Top>Insert Row Above</Table-Row-Insert-Top>
+        <Table-Row-Insert-Bottom>Insert Row Below</Table-Row-Insert-Bottom>
+        <Table-Row-AutoAdjust-Selected>Auto Adjust</Table-Row-AutoAdjust-Selected>
+        <Table-Row-AutoAdjust-All>Auto Adjust(All)</Table-Row-AutoAdjust-All>
+        <Table-Row-Delete>Delete This Row</Table-Row-Delete>
+
+        <!-- Other Labels -->
+        <Label-NPY_Info>NPY Information: </Label-NPY_Info>
+        <Label-NPY_Info-Infos>File Name: |-|Dtype: |-|Shape: </Label-NPY_Info-Infos>
+    </language>
+</translations>
